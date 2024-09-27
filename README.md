@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AI, FORTRAN, C and C++
 - 💞️ I’m looking to collaborate on Challenging projects 
 - 📫 How to reach me clatehlarry@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Infinity and Immortality 
+- ⚡ Fun fact: Life is unfair 
 
 <!---
 Collins-Aka/Collins-Aka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
